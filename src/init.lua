@@ -21,6 +21,8 @@
 --                                                                            --
 -- Authors:                                                                   --
 --   stravant - July 31st, 2021 - Created the file.                           --
+--   coffilhg - May 2nd, 2026 - Published perfected version on wally.         --
+--   			(with the help of Crusherfire)							      --
 --------------------------------------------------------------------------------
 --!nocheck
 

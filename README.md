@@ -1,4 +1,6 @@
-# GoodSignal
+# PerfectSignal (GoodSignal)
+The same as GoodSignal, just with a complete type definition and a fix of an error in Signal:Wait found by **[Crusherfire](https://www.youtube.com/watch?v=yevAvHU3ewo&t=297s)**
+This module will most probably never be updated - it seems perfect.
 A Roblox Lua Signal implementation that has full API and behavioral parity with Roblox' `RBXScriptSignal` type.
 
 # Full API
