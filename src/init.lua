@@ -184,8 +184,11 @@ function Signal:Once(fn)
 	return cn
 end
 
--- Make signal strict
+-- Make signal strict & __call available
 setmetatable(Signal, {
+ __call = function<T...>(): Signal<T...>
+  return Signal.new()
+ end,
 	__index = function(_, key)
 		error(("Attempt to get Signal::%s (not a valid member)"):format(tostring(key)), 2)
 	end,
