@@ -3,6 +3,13 @@ The same as GoodSignal, just with a complete type definition and a fix of an err
 This module will most probably never be updated - it seems perfect.
 A Roblox Lua Signal implementation that has full API and behavioral parity with Roblox' `RBXScriptSignal` type.
 
+# Available Here!
+- **[This repository](src/init.luau) ~ [src/init.luau](src/init.luau)**
+- **[Wally](<https://wally.run/package/coffilhg/perfectsignal>)**
+    ```toml
+    PerfectSignal = "coffilhg/perfectsignal@1.0.1"
+    ```
+
 # Full API
 
 ```lua
