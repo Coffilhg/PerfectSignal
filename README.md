@@ -6,10 +6,12 @@ A Roblox Lua Signal implementation that has full API and behavioral parity with 
 # Available Here!
 - **[This repository](src/init.luau) ~ [src/init.luau](src/init.luau)**
 - **[Wally](<https://wally.run/package/coffilhg/perfectsignal>)**
+
     ```toml
     PerfectSignal = "coffilhg/perfectsignal@1.0.1"
     ```
 - **Rotriever**
+
     ```toml
     PerfectSignal = "github.com/Coffilhg/PerfectSignal@1.0.1"
     ```
