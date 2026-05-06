@@ -9,6 +9,10 @@ A Roblox Lua Signal implementation that has full API and behavioral parity with 
     ```toml
     PerfectSignal = "coffilhg/perfectsignal@1.0.1"
     ```
+- **Rotriever**
+    ```toml
+    PerfectSignal = "github.com/Coffilhg/PerfectSignal@1.0.1"
+    ```
 
 # Full API
 

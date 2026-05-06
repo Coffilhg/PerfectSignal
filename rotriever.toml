@@ -1,6 +1,6 @@
 [package]
 name = "PerfectSignal"
-version = "1.0.0"
+version = "1.0.1"
 license = "MIT"
 authors = [ "Mark Langen <stravant@gmail.com>", "Coffilhg <coffilhg@gmail.com>" ]
 content_root = "src"
